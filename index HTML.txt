@@ -1,0 +1,12 @@
+10 baris (10 sloc)  171 Byte
+   
+<!DOCTYPE html >
+< html >
+    < kepala >
+        < head > Belajar HTML </ head >
+    </ kepala >
+    < tubuh >
+        < h1 > Belajar HTML </ h1 >
+        < p > Halo Dunia..! </ p >
+    </ tubuh >
+</ html
